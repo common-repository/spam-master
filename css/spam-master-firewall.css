@@ -1,0 +1,41 @@
+body{
+color: #444444;
+background-color: #EEEEEE;
+font-family: 'Trebuchet MS', sans-serif;
+font-size: 80%;
+}
+h1{}
+h2{
+font-size: 1.2em;
+}
+#page{
+background-color: #FFFFFF;
+width: 60%;
+margin: 24px auto;
+padding: 12px;
+}
+#header {
+padding: 6px ;
+text-align: center;
+}
+.header{
+background-color: #FF8200;
+color: #FFFFFF;
+}
+#content {
+text-align: center;
+}
+#footer {
+color: #666666;
+background: #f9f9f9;
+padding: 10px 20px;
+border-top: 5px #C1C1C1 solid;
+font-size: 0.8em;
+text-align: center;
+}
+#content-footer{
+text-align: center;
+}
+#footer a {
+color: #999999;
+}
